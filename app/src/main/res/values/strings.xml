@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CleanArchitectureAndroidApplication</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="app_title">App title</string>
+    <string name="error">Error</string>
+    <string name="alive">Alive</string>
+    <string name="dead">Dead</string>
+    <string name="unknown">Unlnown</string>
+    <string name="try_again">Try again</string>
+</resources>
